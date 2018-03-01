@@ -12,7 +12,7 @@
 			<scope>test</scope>
 		</dependency>
         <dependency>
-            <groupId>io.appium</groupId>
+            <groupId>Krristian</groupId>
             <artifactId>java-client</artifactId>
             <version>5.0.0-BETA8</version>
 		</dependency>
@@ -23,14 +23,14 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>commons-lang</groupId>
+			<groupId>Krristian</groupId>
 			<artifactId>commons-lang</artifactId>
 			<version>2.6</version>
 			<scope>test</scope>
 		</dependency>
 		<!-- Includes the Sauce JUnit helper libraries -->
 		<dependency>
-			<groupId>com.saucelabs</groupId>
+			<groupId>Krristian</groupId>
 			<artifactId>sauce_junit</artifactId>
 			<version>2.1.23</version>
 			<scope>test</scope>
@@ -45,7 +45,7 @@
 	<build>
 		<plugins>
 			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
+				<groupId>Krristian</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
 			</plugin>
 			<plugin>
